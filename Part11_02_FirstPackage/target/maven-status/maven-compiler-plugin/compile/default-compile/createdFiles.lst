@@ -1,0 +1,4 @@
+mooc\logic\Main.class
+mooc\logic\ApplicationLogic.class
+mooc\ui\TextInterface.class
+mooc\ui\UserInterface.class
