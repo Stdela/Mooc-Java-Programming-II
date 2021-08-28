@@ -1,4 +1,4 @@
-n the main-method create a new HashMap<String,String> object. Store the names and nicknames of the following people in this hashmap so, that the name is the key and the nickname is the value. Use only lower case letters.
+In the main-method create a new HashMap<String,String> object. Store the names and nicknames of the following people in this hashmap so, that the name is the key and the nickname is the value. Use only lower case letters.
 
 matthew's nickname is matt
 michael's nickname is mix
